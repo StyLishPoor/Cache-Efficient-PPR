@@ -1,6 +1,18 @@
 # Single Source Personalized PegeRank
 This repository is for "Cache-Efficient Approach for Index-Free Personalized PageRank"
 
+## Citation
+```
+@article{10018394,
+  author={Tsuchida, Kohei and Matsumoto, Naoki and Shin, Andrew and Kaneko, Kunitake},
+  journal={IEEE Access}, 
+  title={Cache-Efficient Approach for Index-Free Personalized PageRank}, 
+  year={2023},
+  volume={11},
+  pages={6944-6957},
+  doi={10.1109/ACCESS.2023.3237738}}
+```
+
 ## Environmnets
 - C++ 17
 - G++ 9.4.0
