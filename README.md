@@ -3,7 +3,7 @@ This repository is for "Cache-Efficient Approach for Index-Free Personalized Pag
 
 ## Citation
 ```
-@article{10018394,
+@article{tsuchida2023cache,
   author={Tsuchida, Kohei and Matsumoto, Naoki and Shin, Andrew and Kaneko, Kunitake},
   journal={IEEE Access}, 
   title={Cache-Efficient Approach for Index-Free Personalized PageRank}, 
